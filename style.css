@@ -1,0 +1,19 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(https://i.ytimg.com/vi/ZILZ3ZZz8i8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&amp;rs=AOn4CLDOcfI4leUCtI6VGSuwHEYuarPj0A);
+    background-position: center;
+    background-size: cover;
+
+}
+
+form{
+    background-color: rgb(215, 1, 1);
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
